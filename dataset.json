@@ -1,0 +1,8 @@
+{"intents": [
+    {"tag": "start_conversation",
+    "patterns": ["Hi", "Hello", "Hola", "Good morning", "Good afternoon", "Good day"],
+    "responses": ["Hi, how can I help?", "Hi there", "Thanks for contacting us at ASDPropertyGroup"],
+    "context": [""]
+},
+
+]}
