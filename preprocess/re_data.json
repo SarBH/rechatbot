@@ -1,0 +1,65 @@
+"data": 
+[
+    {
+        "title": "renter",
+        "paragraphs": [
+            {
+                "qas": [
+                    {
+                        "question": "can I bring my dog?",
+                        "id": "renter1",
+                        "answers": [
+                            {
+                                "text": "We ussually allow pets with an upfront one time fee of $400/pet",
+                                "answer_start": 355
+                            }
+                        ],
+                        "is_impossible": false
+                    },
+                    {
+                        "question": "how much do i need to move in?",
+                        "id": "renter2",
+                        "answers": [
+                            {
+                                "text": "first month's rent + 1.5x security deposit.",
+                                "answer_start": 181
+                            }
+                        ],
+                        "is_impossible": false
+                    }
+                ],
+                "context": "When you rent from us, there are no broker fees or agent commissions. You only pay for your credit check The security deposit is 1.5x the monthly rent. To move in you will need the first month's rent + 1.5x security deposit. The application is free, once you're conditionally approved we ask for a $30 charge for every adult to pay for your credit check. We usually allow pets with an upfront one time fee of $400/pet, please discuss our pet policy with one of our staff members as it can be different based on the kind of pet you own. We don?t have a fixed minimum credit score. If you believe you can be a great tenant but you are unsure about your credit score, please talk to one of our staff members. We take section 8 for some of our units, ask a staff member for a specific apartment."
+            },
+        ],
+        "title": "general",
+        "paragraphs":[
+            {
+                "qas": [
+                    {
+                        "question": "are you a broker?",
+                        "id": "general1",
+                        "answers": [
+                            {
+                                "text": "",
+                                "answer_start": 
+                            }
+                        ],
+                        "is_impossible": true
+                    }
+                    {
+                        "question": "do you have apartments in new york?",
+                        "id": "general2",
+                        "answers": [
+                            {
+                                "text": "Our properties are concentrated in Jersey City and Bayonne",
+                                "answer_start": 265
+                            }
+                        ],
+                        "is_impossible": false
+                    }
+                ]
+            }
+        ]
+
+    },
+]
